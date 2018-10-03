@@ -4,7 +4,8 @@
 [![Hacker Rank Logo](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-9c05999c62674028552f4e813728e591.svg)](https://www.hackerrank.com/douglas15) - [![Golden Badges](../badges.png)](https://www.hackerrank.com/douglas15)
 
 
-Day 0: Hello, World. (https://www.hackerrank.com/challenges/30-hello-world/problem)
+- ### Day 0: Hello, World. (https://www.hackerrank.com/challenges/30-hello-world/problem)
+
 
 ```java
 function processData(inputString) {
@@ -17,7 +18,8 @@ function processData(inputString) {
 ```
 
 
-Day 1: Data Types (https://www.hackerrank.com/challenges/30-data-types/problem)
+- ### Day 1: Data Types (https://www.hackerrank.com/challenges/30-data-types/problem)
+
 
 ```java
         int secondI = scan.nextInt();
@@ -33,7 +35,8 @@ Day 1: Data Types (https://www.hackerrank.com/challenges/30-data-types/problem)
 ```
 
 
-Day 2: Operators (https://www.hackerrank.com/challenges/30-operators/problem)
+- ### Day 2: Operators (https://www.hackerrank.com/challenges/30-operators/problem)
+
 
 ```java
 import java.io.*;
@@ -108,7 +111,8 @@ public class Solution {
 ```
 
 
-Day 3: Intro to Conditional Statements (https://www.hackerrank.com/challenges/30-conditional-statements/problem)
+- ### Day 3: Intro to Conditional Statements (https://www.hackerrank.com/challenges/30-conditional-statements/problem)
+
 
 ```java
 import java.io.*;
@@ -156,7 +160,8 @@ public class Solution {
 ```
 
 
-Day 4: Class vs. Instance (https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+- ### Day 4: Class vs. Instance (https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+
 
 ```java
 public class Person {
@@ -193,7 +198,8 @@ public class Person {
 ```
 
 
-Day 5: Loops (https://www.hackerrank.com/challenges/30-loops/problem)
+- ### Day 5: Loops (https://www.hackerrank.com/challenges/30-loops/problem)
+
 
 ```java
 import java.io.*;
@@ -226,7 +232,8 @@ public class Solution {
 
 
 
-Day 6: Let's Review (https://www.hackerrank.com/challenges/30-review-loop/problem)
+- ### Day 6: Let's Review (https://www.hackerrank.com/challenges/30-review-loop/problem)
+
 
 ```java
 import java.io.*;
@@ -273,7 +280,8 @@ public class Solution {
 ```
 
 
-Day 7: Arrays (https://www.hackerrank.com/challenges/30-arrays/problem)
+- ### Day 7: Arrays (https://www.hackerrank.com/challenges/30-arrays/problem)
+
 
 ```java
 import java.io.*;
@@ -319,7 +327,8 @@ public class Solution {
 }
 ```
 
-Day 8: Dictionaries and Maps (https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
+- ### Day 8: Dictionaries and Maps (https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
+
 
 ```java
 //Complete this code or write your own from scratch
@@ -361,7 +370,8 @@ class Solution{
 ```
 
 
-Day 9: Recursion 3  (https://www.hackerrank.com/challenges/30-recursion/problem)
+- ### Day 9: Recursion 3  (https://www.hackerrank.com/challenges/30-recursion/problem)
+
 
 ```java
 import java.io.*;
@@ -418,7 +428,8 @@ public class Solution {
 }
 ```
 
-Day 10: Binary Numbers (https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+- ### Day 10: Binary Numbers (https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+
 
 ```java
 import java.io.*;
@@ -465,7 +476,8 @@ public class Solution {
 ```
 
 
-Day 11: 2D Arrays (https://www.hackerrank.com/challenges/30-2d-arrays/problem)
+- ### Day 11: 2D Arrays (https://www.hackerrank.com/challenges/30-2d-arrays/problem)
+
 
 ```java
 import java.io.*;
@@ -532,7 +544,8 @@ public class Solution {
 ```
 
 
-Day 12: Inheritance (https://www.hackerrank.com/challenges/30-inheritance/problem)
+- ### Day 12: Inheritance (https://www.hackerrank.com/challenges/30-inheritance/problem)
+
 
 ```java
 class Student extends Person{
@@ -587,7 +600,8 @@ class Student extends Person{
 ```
 
 
-Day 13: Abstract Classes (https://www.hackerrank.com/challenges/30-abstract-classes/problem)
+- ### Day 13: Abstract Classes (https://www.hackerrank.com/challenges/30-abstract-classes/problem)
+
 
 ```java
 // Declare your class here. Do not use the 'public' access modifier.
@@ -632,7 +646,8 @@ class MyBook extends Book {
 ```
 
 
-Day 14: Scope (https://www.hackerrank.com/challenges/30-scope/problem)
+- ### Day 14: Scope (https://www.hackerrank.com/challenges/30-scope/problem)
+
 
 ```java
     public Difference(int[] elements) {
@@ -665,7 +680,8 @@ Day 14: Scope (https://www.hackerrank.com/challenges/30-scope/problem)
 ```
 
 
-Day 15: Linked List (https://www.hackerrank.com/challenges/30-linked-list/problem)
+- ### Day 15: Linked List (https://www.hackerrank.com/challenges/30-linked-list/problem)
+
 
 ```java    
     public static  Node insert(Node head,int data) {
@@ -690,7 +706,8 @@ Day 15: Linked List (https://www.hackerrank.com/challenges/30-linked-list/proble
 ```
 
 
-Day 16: Exceptions - String to Integer (https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
+- ### Day 16: Exceptions - String to Integer (https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
+
 
 ```java
 import java.io.*;
@@ -716,7 +733,8 @@ public class Solution {
 ```
 
 
-Day 17: More Exceptions (https://www.hackerrank.com/challenges/30-more-exceptions/problem)
+- ### Day 17: More Exceptions (https://www.hackerrank.com/challenges/30-more-exceptions/problem)
+
 
 ```java
 //Write your code here
@@ -735,7 +753,8 @@ class Calculator {
 ```
 
 
-Day 18: Queues and Stacks (https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+- ### Day 18: Queues and Stacks (https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+
 
 ```java
 public class Solution {
@@ -762,7 +781,8 @@ public class Solution {
 ```    
 
 
-Day 19: Interfaces (https://www.hackerrank.com/challenges/30-interfaces/problem)
+- ### Day 19: Interfaces (https://www.hackerrank.com/challenges/30-interfaces/problem)
+
 
 ```java
 class Calculator implements AdvancedArithmetic {
@@ -784,7 +804,8 @@ class Calculator implements AdvancedArithmetic {
 ```
 
 
-Day 20: Sorting (https://www.hackerrank.com/challenges/30-sorting/problem)
+- ### Day 20: Sorting (https://www.hackerrank.com/challenges/30-sorting/problem)
+
 
 ```java
 import java.io.*;
@@ -840,7 +861,8 @@ public class Solution {
 }
 ```
 
-Day 21: Generics (https://www.hackerrank.com/challenges/30-generics/problem)
+- ### Day 21: Generics (https://www.hackerrank.com/challenges/30-generics/problem)
+
 
 ```java
     /**
@@ -860,7 +882,8 @@ Day 21: Generics (https://www.hackerrank.com/challenges/30-generics/problem)
 ```
 
 
-Day 22: Binary Search Trees (https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
+- ### Day 22: Binary Search Trees (https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
+
 
 ```java	
     private static int maxDepth = 500;
@@ -930,7 +953,8 @@ Day 22: Binary Search Trees (https://www.hackerrank.com/challenges/30-binary-sea
 ```
 
 
-Day 23: BST Level-Order Traversal (https://www.hackerrank.com/challenges/30-binary-trees/problem)
+- ### Day 23: BST Level-Order Traversal (https://www.hackerrank.com/challenges/30-binary-trees/problem)
+
 
 ```java
     static void levelOrder(Node root){
@@ -965,7 +989,8 @@ Day 23: BST Level-Order Traversal (https://www.hackerrank.com/challenges/30-bina
 ```
 
 
-Day 24: More Linked Lists (https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
+- ### Day 24: More Linked Lists (https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
+
 
 ```java
     public static Node removeDuplicates(Node head) {
@@ -999,7 +1024,8 @@ Day 24: More Linked Lists (https://www.hackerrank.com/challenges/30-linked-list-
 ```
 
 
-Day 25: Running Time and Complexity (https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
+- ### Day 25: Running Time and Complexity (https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
+
 
 ```java
 import java.io.*;
@@ -1063,7 +1089,8 @@ public class Solution {
 ```
 
 
-Day 26: Nested Logic (https://www.hackerrank.com/challenges/30-nested-logic/problem)
+- ### Day 26: Nested Logic (https://www.hackerrank.com/challenges/30-nested-logic/problem)
+
 
 ```java
 import java.io.*;
@@ -1152,7 +1179,7 @@ public class Solution {
 ```
 
 
-Day 27: Testing (https://www.hackerrank.com/challenges/30-testing/problem)
+- ### Day 27: Testing (https://www.hackerrank.com/challenges/30-testing/problem)
 
 ```java
     static class TestDataEmptyArray {
@@ -1186,7 +1213,8 @@ Day 27: Testing (https://www.hackerrank.com/challenges/30-testing/problem)
 ```
 
 
-Day 28: RegEx, Patterns, and Intro to Databases (https://www.hackerrank.com/challenges/30-regex-patterns/problem)
+- ### Day 28: RegEx, Patterns, and Intro to Databases (https://www.hackerrank.com/challenges/30-regex-patterns/problem)
+
 
 ```java
 import java.io.*;
@@ -1231,7 +1259,8 @@ public class Solution {
 ```
 
 
-Day 29: Bitwise AND (https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+- ### Day 29: Bitwise AND (https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+
 
 ```java
 import java.io.*;
@@ -1285,5 +1314,5 @@ public class Solution {
 }
 ```
 
-Douglas Souza
-[![LinkedIn Logo](./Linked_in.png)](https://www.linkedin.com/in/douglas-souza-mba-it-developer/)https://www.linkedin.com/in/douglas-souza-mba-it-developer/
+
+[Douglas Souza](https://www.linkedin.com/in/douglas-souza-mba-it-developer/) - https://www.linkedin.com/in/douglas-souza-mba-it-developer/

@@ -3,7 +3,9 @@
 
 [![Hacker Rank Logo](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-9c05999c62674028552f4e813728e591.svg)](https://www.hackerrank.com/douglas15) - [![Golden Badges](../badges.png)](https://www.hackerrank.com/douglas15)
 
-Day 0: Hello, World! (https://www.hackerrank.com/challenges/js10-hello-world/problem)
+
+- ### Day 0: Hello, World! (https://www.hackerrank.com/challenges/js10-hello-world/problem)
+
 
 ```js
 function greeting(parameterVariable) {
@@ -16,7 +18,8 @@ function greeting(parameterVariable) {
 ```
 
 
-Day 0: Data Types (https://www.hackerrank.com/challenges/js10-data-types/problem)
+- ### Day 0: Data Types (https://www.hackerrank.com/challenges/js10-data-types/problem)
+
 
 ```js
 function performOperation(secondInteger, secondDecimal, secondString) {
@@ -41,7 +44,9 @@ function performOperation(secondInteger, secondDecimal, secondString) {
 }
 ```
 
-Day 1: Arithmetic Operators (https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)
+
+- ### Day 1: Arithmetic Operators (https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem)
+
 
 ```js
 /**
@@ -80,7 +85,8 @@ function getPerimeter(length, width) {
 ```
 
 
-Day 1: Functions (https://www.hackerrank.com/challenges/js10-function/problem)
+- ### Day 1: Functions (https://www.hackerrank.com/challenges/js10-function/problem)
+
 
 ```js
 function factorial(n){
@@ -92,7 +98,8 @@ function factorial(n){
 ```
 
 
-Day 1: Let and Const (https://www.hackerrank.com/challenges/js10-let-and-const/problem)
+- ### Day 1: Let and Const (https://www.hackerrank.com/challenges/js10-let-and-const/problem)
+
 
 ```js
 function main() {
@@ -112,7 +119,8 @@ function main() {
 ```
 
 
-Day 2: Conditional Statements: If-Else (https://www.hackerrank.com/challenges/js10-if-else/problem)
+- ### Day 2: Conditional Statements: If-Else (https://www.hackerrank.com/challenges/js10-if-else/problem)
+
 
 ```js
 function getGrade(score) {
@@ -138,7 +146,8 @@ function getGrade(score) {
 ```
 
 
-Day 2: Conditional Statements: Switch (https://www.hackerrank.com/challenges/js10-switch/problem)
+- ### Day 2: Conditional Statements: Switch (https://www.hackerrank.com/challenges/js10-switch/problem)
+
 
 ```js
 function getLetter(s) {
@@ -189,7 +198,8 @@ function getLetter(s) {
 ```
 
 
-Day 2: Loops (https://www.hackerrank.com/challenges/js10-loops/problem)
+- ### Day 2: Loops (https://www.hackerrank.com/challenges/js10-loops/problem)
+
 
 ```js
 function vowelsAndConsonants(s) {
@@ -220,7 +230,8 @@ function vowelsAndConsonants(s) {
 ```
 
 
-Day 3: Arrays (https://www.hackerrank.com/challenges/js10-arrays/problem)
+- ### Day 3: Arrays (https://www.hackerrank.com/challenges/js10-arrays/problem)
+
 
 ```js
 function getSecondLargest(nums) {
@@ -247,7 +258,8 @@ function getSecondLargest(nums) {
 ```
 
 
-Day 3: Try, Catch, and Finally (https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)
+- ### Day 3: Try, Catch, and Finally (https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem)
+
 
 ```js
 function reverseString(s) {
@@ -264,7 +276,8 @@ function reverseString(s) {
 ```
 
 
-Day 3: Throw (https://www.hackerrank.com/challenges/js10-throw/problem)
+- ### Day 3: Throw (https://www.hackerrank.com/challenges/js10-throw/problem)
+
 
 ```js
 function isPositive(a) {
@@ -279,7 +292,9 @@ function isPositive(a) {
 }
 ```
 
-Day 4: Create a Rectangle Object (https://www.hackerrank.com/challenges/js10-objects/problem)
+
+- ### Day 4: Create a Rectangle Object (https://www.hackerrank.com/challenges/js10-objects/problem)
+
 
 ```js
 function Rectangle(a, b) {
@@ -301,7 +316,9 @@ function Rectangle(a, b) {
 }
 ```
 
-Day 4: Count Objects (https://www.hackerrank.com/challenges/js10-count-objects/problem)
+
+- ### Day 4: Count Objects (https://www.hackerrank.com/challenges/js10-count-objects/problem)
+
 
 ```js
 function getCount(objects) {
@@ -319,7 +336,8 @@ function getCount(objects) {
 ```
 
 
-Day 4: Classes (https://www.hackerrank.com/challenges/js10-class/problem)
+- ### Day 4: Classes (https://www.hackerrank.com/challenges/js10-class/problem)
+
 
 ```js
 class Polygon {
@@ -345,7 +363,8 @@ class Polygon {
 ```
 
 
-Day 5: Inheritance (https://www.hackerrank.com/challenges/js10-inheritance/problem)
+- ### Day 5: Inheritance (https://www.hackerrank.com/challenges/js10-inheritance/problem)
+
 
 ```js
 Rectangle.prototype.area =function () {
@@ -362,7 +381,8 @@ class Square extends Rectangle {
 ```
 
 
-Day 5: Template Literals (https://www.hackerrank.com/challenges/js10-template-literals/problem)
+- ### Day 5: Template Literals (https://www.hackerrank.com/challenges/js10-template-literals/problem)
+
 
 ```js
 function sides(literals, ...expressions) {
@@ -381,7 +401,8 @@ function sides(literals, ...expressions) {
 ```
 
 
-Day 5: Arrow Functions (https://www.hackerrank.com/challenges/js10-arrows/problem)
+- ### Day 5: Arrow Functions (https://www.hackerrank.com/challenges/js10-arrows/problem)
+
 
 ```js
 function modifyArray(nums) {
@@ -402,7 +423,8 @@ function modifyArray(nums) {
 ```
 
 
-Day 6: Bitwise Operators (https://www.hackerrank.com/challenges/js10-bitwise/problem)
+- ### Day 6: Bitwise Operators (https://www.hackerrank.com/challenges/js10-bitwise/problem)
+
 
 ```js
 function getMaxLessThanK(n, k){
@@ -429,7 +451,8 @@ function getMaxLessThanK(n, k){
 ```
 
 
-Day 6: JavaScript Dates (https://www.hackerrank.com/challenges/js10-date/problem)
+- ### Day 6: JavaScript Dates (https://www.hackerrank.com/challenges/js10-date/problem)
+
 
 ```js
 function getDayName(dateString) {
@@ -445,7 +468,8 @@ function getDayName(dateString) {
 ```
 
 
-Day 7: Regular Expressions I (https://www.hackerrank.com/challenges/js10-regexp-1/problem)
+- ### Day 7: Regular Expressions I (https://www.hackerrank.com/challenges/js10-regexp-1/problem)
+
 
 ```js
 function regexVar() {
@@ -464,7 +488,8 @@ function regexVar() {
 ```
 
 
-Day 7: Regular Expressions II (https://www.hackerrank.com/challenges/js10-regexp-2/problem)
+- ### Day 7: Regular Expressions II (https://www.hackerrank.com/challenges/js10-regexp-2/problem)
+
 
 ```js
 function regexVar() {
@@ -487,7 +512,8 @@ function regexVar() {
 ```
 
 
-Day 7: Regular Expressions III (https://www.hackerrank.com/challenges/js10-regexp-3/problem)
+- ### Day 7: Regular Expressions III (https://www.hackerrank.com/challenges/js10-regexp-3/problem)
+
 
 ```js
 function regexVar() {
@@ -505,7 +531,8 @@ function regexVar() {
 ```
 
 
-Day 8: Create a Button  (https://www.hackerrank.com/challenges/js10-create-a-button)
+- ### Day 8: Create a Button  (https://www.hackerrank.com/challenges/js10-create-a-button)
+
 
 ```html
 <!-- Enter your HTML code here -->
@@ -523,6 +550,7 @@ Day 8: Create a Button  (https://www.hackerrank.com/challenges/js10-create-a-but
 </html>
 ```
 
+
 ```css
 button{
     width: 96px;
@@ -530,6 +558,7 @@ button{
     font-size:24px;
 }
 ```
+
 
 ```js
 document.onload = function (){
@@ -545,7 +574,8 @@ document.getElementById('btn').addEventListener('click', src=>{
 ```
 
 
-Day 8: Buttons Container (https://www.hackerrank.com/challenges/js10-buttons-container)
+- ### Day 8: Buttons Container (https://www.hackerrank.com/challenges/js10-buttons-container)
+
 
 ```html
 <!-- Enter your HTML code here -->
@@ -583,6 +613,7 @@ Day 8: Buttons Container (https://www.hackerrank.com/challenges/js10-buttons-con
     font-size:24px;
 }
 ```
+
 
 ```js
 let container = document.getElementById('btns');
@@ -662,7 +693,8 @@ function calculateNewValue(currentBtnText){
 ```
 
 
-Day 9: Binary Calculator (https://www.hackerrank.com/challenges/js10-binary-calculator)
+- ### Day 9: Binary Calculator (https://www.hackerrank.com/challenges/js10-binary-calculator)
+
 
 ```html
 <!-- Enter your HTML code here -->
@@ -695,6 +727,7 @@ Day 9: Binary Calculator (https://www.hackerrank.com/challenges/js10-binary-calc
     
 </html>
 ```
+
 
 ```css
 body{
@@ -731,6 +764,7 @@ body{
     float: left;
 }
 ```
+
 
 ```js
 class BynaryCalculator {
@@ -902,5 +936,5 @@ window.addEventListener('load', ()=>{
 });
 ```
 
-Douglas Souza
-[![LinkedIn Logo](./Linked_in.png)](https://www.linkedin.com/in/douglas-souza-mba-it-developer/)https://www.linkedin.com/in/douglas-souza-mba-it-developer/
+
+[Douglas Souza](https://www.linkedin.com/in/douglas-souza-mba-it-developer/) - https://www.linkedin.com/in/douglas-souza-mba-it-developer/ 

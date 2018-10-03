@@ -4,7 +4,8 @@
 [![Hacker Rank Logo](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-9c05999c62674028552f4e813728e591.svg)](https://www.hackerrank.com/douglas15) - [![Golden Badges](../badges.png)](https://www.hackerrank.com/douglas15)
 
 
-Java Regex (https://www.hackerrank.com/challenges/java-regex/problem)
+- ### Java Regex (https://www.hackerrank.com/challenges/java-regex/problem)
+
 
 ```java
 //Write your code here
@@ -24,7 +25,8 @@ class MyRegex {
 ```
 
 
-Java Regex 2 - Duplicate Words ()https://www.hackerrank.com/challenges/duplicate-word/problem
+- ### Java Regex 2 - Duplicate Words (https://www.hackerrank.com/challenges/duplicate-word/problem)
+
 
 ```java
 import java.util.Scanner;
@@ -61,8 +63,8 @@ public class DuplicateWords {
 ```
 
 
+- ### Tag Content Extractor (https://www.hackerrank.com/challenges/tag-content-extractor/problem)
 
-Tag Content Extractor (https://www.hackerrank.com/challenges/tag-content-extractor/problem)
 
 ```java
 import java.io.*;
@@ -96,8 +98,8 @@ public class Solution{
 ```
 
 
+- ### Java BigDecimal (https://www.hackerrank.com/challenges/java-bigdecimal/problem)
 
-Java BigDecimal (https://www.hackerrank.com/challenges/java-bigdecimal/problem)
 
 ```java
         //Write your code here
@@ -110,7 +112,8 @@ Java BigDecimal (https://www.hackerrank.com/challenges/java-bigdecimal/problem)
 ```
 
 
-Java 1D Array (Part 2) (https://www.hackerrank.com/challenges/java-1d-array/problem)
+- ### Java 1D Array (Part 2) (https://www.hackerrank.com/challenges/java-1d-array/problem)
+
 
 ```java
 import java.util.*;
@@ -152,7 +155,8 @@ public class Solution {
 ```
 
 
-Java Stack (https://www.hackerrank.com/challenges/java-stack/problem)
+- ### Java Stack (https://www.hackerrank.com/challenges/java-stack/problem)
+
 
 ```java
 import java.util.*;
@@ -237,7 +241,8 @@ class Solution{
 ```
 
 
-Java Comparator (https://www.hackerrank.com/challenges/java-comparator/problem)
+- ### Java Comparator (https://www.hackerrank.com/challenges/java-comparator/problem)
+
 
 ```java
 // Write your Checker class here
@@ -290,8 +295,8 @@ class Checker implements Comparator<Player> {
 ```
 
 
+- ### Java Dequeue (https://www.hackerrank.com/challenges/java-dequeue/problem)
 
-Java Dequeue (https://www.hackerrank.com/challenges/java-dequeue/problem)
 
 ```java
  import java.util.*;
@@ -416,11 +421,11 @@ public class test {
         
     }
 /*/
-```java
+```
 
 
+- ### Java Priority Queue (https://www.hackerrank.com/challenges/java-priority-queue/problem)
 
-Java Priority Queue (https://www.hackerrank.com/challenges/java-priority-queue/problem)
 
 ```java
 import java.util.*;
@@ -526,7 +531,9 @@ class Priorities {
 }
 ```
 
-Can You Access? (https://www.hackerrank.com/challenges/can-you-access/problem)
+
+- ### Can You Access? (https://www.hackerrank.com/challenges/can-you-access/problem)
+
 
 ```java
 			//Write your code here
@@ -536,7 +543,8 @@ Can You Access? (https://www.hackerrank.com/challenges/can-you-access/problem)
 ```
 
 
-Prime Checker (https://www.hackerrank.com/challenges/prime-checker/problem)
+- ### Prime Checker (https://www.hackerrank.com/challenges/prime-checker/problem)
+
 
 ```java
 import static java.lang.System.in;
@@ -569,7 +577,8 @@ class Prime {
 ```
 
 
-Java Visitor Pattern (https://www.hackerrank.com/challenges/java-vistor-pattern/problem)
+- ### Java Visitor Pattern (https://www.hackerrank.com/challenges/java-vistor-pattern/problem)
+
 
 ```java
 class SumInLeavesVisitor extends TreeVis {
@@ -740,7 +749,8 @@ public class Solution {
 ```
 
 
-Java Annotations (https://www.hackerrank.com/challenges/java-annotations/problem)
+- ### Java Annotations (https://www.hackerrank.com/challenges/java-annotations/problem)
+
 
 ```java
 import java.lang.annotation.*;
@@ -806,8 +816,8 @@ public class Solution {
 ```
 
 
+- ### Java Lambda Expressions (https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
 
-Java Lambda Expressions (https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
 
 ```java
     public PerformOperation isOdd() {
@@ -846,7 +856,8 @@ Java Lambda Expressions (https://www.hackerrank.com/challenges/java-lambda-expre
 ```
 
 
-Java MD5 (https://www.hackerrank.com/challenges/java-md5/problem)
+- ### Java MD5 (https://www.hackerrank.com/challenges/java-md5/problem)
+
 
 ```java
 import java.io.*;
@@ -881,7 +892,8 @@ public class Solution {
 ```
 
 
-Java SHA-256 (https://www.hackerrank.com/challenges/sha-256/problem)
+- ### Java SHA-256 (https://www.hackerrank.com/challenges/sha-256/problem)
+
 
 ```java
 import java.io.*;
@@ -915,5 +927,4 @@ public class Solution {
 ```
 
 
-Douglas Souza
-[![LinkedIn Logo](./Linked_in.png)](https://www.linkedin.com/in/douglas-souza-mba-it-developer/)https://www.linkedin.com/in/douglas-souza-mba-it-developer/
+[Douglas Souza](https://www.linkedin.com/in/douglas-souza-mba-it-developer/) - https://www.linkedin.com/in/douglas-souza-mba-it-developer/

@@ -3,7 +3,10 @@
 
 [![Hacker Rank Logo](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-9c05999c62674028552f4e813728e591.svg)](https://www.hackerrank.com/douglas15) - [![Golden Badges](../badges.png)](https://www.hackerrank.com/douglas15)
 
-The PADS (https://www.hackerrank.com/challenges/the-pads/problem)
+
+
+- ### The PADS (https://www.hackerrank.com/challenges/the-pads/problem)
+
 
 ```sql
 SELECT
@@ -24,7 +27,8 @@ ORDER BY COUNT(1), O.OCCUPATION
 ```
 
 
-Occupations (https://www.hackerrank.com/challenges/occupations/problem)
+- ### Occupations (https://www.hackerrank.com/challenges/occupations/problem)
+
 
 ```sql
 WITH ALL_ITEMS AS (
@@ -79,7 +83,8 @@ ORDER BY ALL_ITEMS.ID
 ;
 ```
 
-Binary Tree Nodes (https://www.hackerrank.com/challenges/binary-search-tree-1/problem)
+- ### Binary Tree Nodes (https://www.hackerrank.com/challenges/binary-search-tree-1/problem)
+
 
 ```sql
 SELECT * FROM (
@@ -102,7 +107,8 @@ ORDER BY N
 ;
 ```
 
-New Companies (https://www.hackerrank.com/challenges/the-company/problem)
+- ### New Companies (https://www.hackerrank.com/challenges/the-company/problem)
+
 
 ```sql
 SELECT 
@@ -136,7 +142,8 @@ ORDER BY C.COMPANY_CODE
 ```
 
 
-Weather Observation Station 18 (https://www.hackerrank.com/challenges/weather-observation-station-18/problem)
+- ### Weather Observation Station 18 (https://www.hackerrank.com/challenges/weather-observation-station-18/problem)
+
 
 ```sql
 WITH TEMP_VARIABLES AS (
@@ -154,7 +161,8 @@ FROM TEMP_VARIABLES P
 ```
 
 
-Weather Observation Station 19 (https://www.hackerrank.com/challenges/weather-observation-station-19/problem)
+- ### Weather Observation Station 19 (https://www.hackerrank.com/challenges/weather-observation-station-19/problem)
+
 
 ```sql
 WITH TEMP_VARIABLES AS (
@@ -175,7 +183,9 @@ FROM TEMP_VARIABLES P
 ;
 ```
 
-Weather Observation Station 20 (https://www.hackerrank.com/challenges/weather-observation-station-20/problem)
+
+- ### Weather Observation Station 20 (https://www.hackerrank.com/challenges/weather-observation-station-20/problem)
+
 
 ```sql
 SELECT
@@ -184,7 +194,9 @@ FROM STATION S
 ;
 ```
 
-The Report (https://www.hackerrank.com/challenges/the-report/problem)
+
+- ### The Report (https://www.hackerrank.com/challenges/the-report/problem)
+
 
 ```sql
 SELECT 
@@ -199,7 +211,9 @@ ORDER BY GRADE DESC, S.NAME ASC
 
 ```
 
-Top Competitors (https://www.hackerrank.com/challenges/full-score/problem)
+
+- ### Top Competitors (https://www.hackerrank.com/challenges/full-score/problem)
+
 
 ```sql
 SELECT 
@@ -217,7 +231,9 @@ ORDER BY COUNT(DISTINCT S.CHALLENGE_ID) DESC, H.HACKER_ID ASC
 ;
 ```
 
-Ollivander's Inventory (https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)
+
+- ### Ollivander's Inventory (https://www.hackerrank.com/challenges/harry-potter-and-wands/problem)
+
 
 ```sql
 WITH TMP_WANDS AS (
@@ -249,7 +265,9 @@ ORDER BY TW.POWER DESC, TW.AGE DESC
 ;
 ```
 
-Challenges (https://www.hackerrank.com/challenges/challenges/problem)
+
+- ### Challenges (https://www.hackerrank.com/challenges/challenges/problem)
+
 
 ```sql
 SELECT
@@ -277,7 +295,9 @@ WHERE (
 ;
 ```
 
-Contest Leaderboard (https://www.hackerrank.com/challenges/contest-leaderboard/problem)
+
+- ### Contest Leaderboard (https://www.hackerrank.com/challenges/contest-leaderboard/problem)
+
 
 ```sql
 SELECT
@@ -301,7 +321,9 @@ ORDER BY TOTAL_SCORE DESC, HACKER_ID
 ;
 ```
 
-Projects (https://www.hackerrank.com/challenges/projects/problem)
+
+- ### Projects (https://www.hackerrank.com/challenges/projects/problem)
+
 
 ```sql
 SELECT INI, MAX(FIN) FROM ( 
@@ -328,7 +350,8 @@ ORDER BY (MAX(FIN) - INI), INI
 ```
 
 
-Placements (https://www.hackerrank.com/challenges/placements/problem)
+- ### Placements (https://www.hackerrank.com/challenges/placements/problem)
+
 
 ```sql
 SELECT 
@@ -342,7 +365,8 @@ ORDER BY SFP.SALARY
 ;
 ```
 
-Symmetric Pairs (https://www.hackerrank.com/challenges/symmetric-pairs/problem)
+- ### Symmetric Pairs (https://www.hackerrank.com/challenges/symmetric-pairs/problem)
+
 
 ```sql
 SELECT 
@@ -361,7 +385,8 @@ ORDER BY FN1.X ASC
 ```
 
 
-Print Prime Numbers (https://www.hackerrank.com/challenges/print-prime-numbers/problem)
+- ### Print Prime Numbers (https://www.hackerrank.com/challenges/print-prime-numbers/problem)
+
 
 ```sql
 WITH NUMBERS AS (
@@ -393,7 +418,9 @@ ORDER BY TMPN.NUM
 ;
 ```
 
-Interviews (https://www.hackerrank.com/challenges/interviews/problem)
+
+- ### Interviews (https://www.hackerrank.com/challenges/interviews/problem)
+
 
 ```sql
 WITH VIEW_STATS_SUM AS (
@@ -436,7 +463,8 @@ ORDER BY CON.CONTEST_ID
 ```
 
 
-15 Days of Learning SQL (https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)
+- ### 15 Days of Learning SQL (https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)
+
 
 ```sql
 WITH SUB_GROUP AS ( 
@@ -513,3 +541,6 @@ GROUP BY SG.SUBMISSION_DATE, SGDL.HACKER_ID, SGDL.NAME, USBD.TOTAL_DISTINCT_SUBM
 ORDER BY SG.SUBMISSION_DATE 
 ;
 ```
+
+
+[Douglas Souza](https://www.linkedin.com/in/douglas-souza-mba-it-developer/) - https://www.linkedin.com/in/douglas-souza-mba-it-developer/ 
